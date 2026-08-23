@@ -1,0 +1,60 @@
+[
+  {
+    "ABXY": {
+      "sound": "RazerMouse_part1.wav",
+      "release_sound": "RazerMouse_part2.wav",
+      "volume": 219
+    },
+    "DPAD": {
+      "sound": "LogicMouse_part1.wav",
+      "release_sound": "LogicMouse_part2.wav",
+      "volume": 196
+    },
+    "SHOULDER": {
+      "sound": "无音效",
+      "release_sound": "无音效",
+      "volume": 100
+    },
+    "TRIGGER": {
+      "sound": "无音效",
+      "release_sound": "无音效",
+      "volume": 100
+    }
+  },
+  {
+    "ABXY": {
+      "sound": "无音效",
+      "volume": 357
+    },
+    "DPAD": {
+      "sound": "无音效",
+      "volume": 100
+    },
+    "SHOULDER": {
+      "sound": "无音效",
+      "volume": 100
+    },
+    "TRIGGER": {
+      "sound": "无音效",
+      "volume": 100
+    }
+  },
+  {
+    "ABXY": {
+      "sound": "无音效",
+      "volume": 313
+    },
+    "DPAD": {
+      "sound": "无音效",
+      "volume": 100
+    },
+    "SHOULDER": {
+      "sound": "无音效",
+      "volume": 100
+    },
+    "TRIGGER": {
+      "sound": "无音效",
+      "volume": 100
+    }
+  }
+]

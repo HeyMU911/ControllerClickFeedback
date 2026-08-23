@@ -1,0 +1,18 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# PyInstaller
+build/
+dist/
+
+# IDE
+.vscode/
+
+# Environment
+.venv/
+venv/
+
+# System
+.DS_Store
+Thumbs.db
